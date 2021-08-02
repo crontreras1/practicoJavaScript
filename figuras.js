@@ -50,7 +50,7 @@ function areaTriangulo(base, altura) {
 console.groupEnd();    
 
 // Código del círculo 
-//console.group("Círculo");
+console.group("Círculo");
 //const radioCirculo = 4;
 //console.log("El radio del circulo es: " + radioCirculo + " cm");
 
@@ -81,3 +81,30 @@ function areaCirculo(radio) {
 }
 
 console.groupEnd();
+
+// Empezamos interacción con el HTML
+
+function calcularPerimetroCuadrado() {
+    const input = document.getElementById("inputCuadrado");
+    const value = input.value;
+    
+    const perimetro = perimetroCuadrado(value);
+    alert(perimetro);
+}
+
+function calcularAreaCuadrado() {
+    const input = document.getElementById("inputCuadrado");
+    const value = input.value;
+    
+    const area = areaCuadrado(value);
+    alert(area);
+    
+}
+
+function calcularPerimetroTriangulo() {
+    const input = document.getElementById("inputTriangulo");
+    const value = input.value;
+
+    const perimetro = perimetroTriangulo(value);
+    alert(perimetro);
+}
