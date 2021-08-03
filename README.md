@@ -15,3 +15,10 @@
 - 2do: Implementar las formulas en JavaScript
 - 3ro: Crear fuciones
 - 4to: Integrar JavaScript con HTML
+
+## #3 promedio, media y moda 
+
+- 1ro: Definir las formulas
+- 2do: Implementar las formulas en JavaScript
+- 3ro: Crear fuciones
+- 4to: Integrar JavaScript con HTML
