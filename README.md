@@ -21,4 +21,10 @@
 - 1ro: Definir las formulas
 - 2do: Implementar las formulas en JavaScript
 - 3ro: Crear fuciones
+
+## #4 salarios 
+
+- 1ro: Definir las formulas
+- 2do: Implementar las formulas en JavaScript
+- 3ro: Crear fuciones
 - 4to: Integrar JavaScript con HTML
